@@ -1,3 +1,3 @@
 # Neural-Networks
 
-ECE NTUA Neural Networks
+ECE NTUA Neural Networks source code
